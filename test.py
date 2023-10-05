@@ -1,4 +1,4 @@
-from math import add,minus
+from math_test import add,minus
 
 def testAdd():
     assert add(5,3) == 8
